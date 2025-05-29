@@ -1,7 +1,7 @@
+<script setup lang="ts">
+import ProductCrud from './components/ProductCrud.vue'
+</script>
+
 <template>
   <ProductCrud />
 </template>
-
-<script setup>
-import ProductCrud from './components/ProductCrud.vue'
-</script>
